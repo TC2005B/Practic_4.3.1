@@ -36,7 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Border.cs" />
      <Compile Include="Assets\Scripts\Enemys.cs" />
+     <Compile Include="Assets\Scripts\Meta.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\PuntosMeta.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/2019.4.20f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
